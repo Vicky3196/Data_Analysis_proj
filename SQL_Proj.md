@@ -1,12 +1,3 @@
-// Digital Music Store Analysis //
-
-Objective:
-
-This project is for beginners and will teach you how to analyse the 
-music playlist database. You can examine the dataset with SQL and help
-the store understand its business growth by answering simple question.
-
-
 /*	Question Set 1 - Easy */
 
 /* Q1: Who is the senior most employee based on job title? */
