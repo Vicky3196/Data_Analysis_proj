@@ -1,3 +1,12 @@
+Weather App
+* Weather apps enable users to get instant alerts regarding weather conditions.
+* Weather apps are the simplest method to know about the updates of the upcoming weather.
+* Tkinter: It is a built-in python library for making GUI using Tkinter Toolkit.
+* Requests: It is a library which helps in fetching the data with the help of URL. It can be installed using the below command.
+* The app uses a weather API to obtain Weather data and then processes and displays that data to the use.
+
+CODE:
+  
 from tkinter import *
 from tkinter import ttk
 import requests
